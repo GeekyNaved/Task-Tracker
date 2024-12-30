@@ -1,8 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Task Tracker
 
-Currently, two official plugins are available:
+A React application to manage tasks, including adding, updating, deleting, and filtering tasks by their completion status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+
+- Clone the repository:
+
+   ```bash
+   git clone https://github.com/GeekyNaved/Task-Tracker.git
+
+- Install project with npm
+
+```bash
+  cd Task-Tracker
+  npm install
+```
+
+- Run project
+
+```bash
+  npm run dev
+```
+
+- Build project
+
+```bash
+  npm run build
+```
+## Deployment
+
+Live link - https://task-tracker-jade-beta.vercel.app
+
